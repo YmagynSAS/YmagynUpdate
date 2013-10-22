@@ -1,4 +1,1 @@
-YmagynUpdate
-============
-
-A plugin for in app updates 
+# YmagynUpdate Phonegap Plugin for iOS & Android #
